@@ -1,3 +1,3 @@
 module.exports = {
-  siteMetadata: {}
-}
+  siteMetadata: {},
+};
